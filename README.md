@@ -132,5 +132,6 @@ dan ini adalah codingan gambar nya
 2. Tampilan about page pada browser yang menggunakan modular header dan footer
 ![img](img/9.png)
 
+DAN UNTUK MENGAKSES LAB 10_PHP_ OOP YAITU PRAKTIKUM 10 BISA MENGAKSES MELALUI LINK BERIKUT INI : https://github.com/MuhammadRifaiAditiya/lab10_php_oop
 
 # SEKIAN DAN TERIMAKASIH
